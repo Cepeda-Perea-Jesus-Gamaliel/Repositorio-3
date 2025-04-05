@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35919.96 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 3", "Practica 3.csproj", "{2EBEC609-BAEE-46D7-B8DF-0A7A419CFA2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gift Animado", "Gift Animado\Gift Animado.csproj", "{DA83C03B-8578-4486-98DE-0FF8C4A09FA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2EBEC609-BAEE-46D7-B8DF-0A7A419CFA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2EBEC609-BAEE-46D7-B8DF-0A7A419CFA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2EBEC609-BAEE-46D7-B8DF-0A7A419CFA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2EBEC609-BAEE-46D7-B8DF-0A7A419CFA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA83C03B-8578-4486-98DE-0FF8C4A09FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA83C03B-8578-4486-98DE-0FF8C4A09FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA83C03B-8578-4486-98DE-0FF8C4A09FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA83C03B-8578-4486-98DE-0FF8C4A09FA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F7D27ACB-5B0E-4D76-A2DF-DC3BB4B5946D}
+		SolutionGuid = {48B280D7-0D30-46AD-93E3-25106D47B129}
 	EndGlobalSection
 EndGlobal
